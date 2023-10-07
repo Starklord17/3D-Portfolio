@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import Tilt from "react-tilting";
+import Tilt from 'react-parallax-tilt';
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
